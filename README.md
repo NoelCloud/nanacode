@@ -19,7 +19,6 @@
 - Terraform - 1.6.1
 - AWS provider - 5.21.0
 - VPC module - 5.1.2
-- EKS module - 19.17.2
 - Linode provider - 2.9.5
 
 
