@@ -18,7 +18,7 @@
 ## Versions used in the course
 - Terraform - 1.6.1
 - AWS provider - 5.21.0
-- VPC module - 5.1.2
+- VPC module - 5.5.1
 - Linode provider - 2.9.5
 
 
